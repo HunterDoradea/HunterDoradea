@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HunterDoradea
-- 👀 I’m interested in FinTech!
+- 👀 I’m interested in FinTech! (Financial Technology)
 - 🌱 I’m currently learning ... Assembly Language Programming
 - 💞️ I’m looking to collaborate on any challenging projects! iOS, Python, or C .
 - 📫 How to reach me ... 
