@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HunterDoradea
 - 🌱 I’m currently learning ... Assembly Language Programming
-- 💞️ I’m looking to collaborate on any challenging projects! iOS, Python, or C .
 
 
 <!---
