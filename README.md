@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HunterDoradea
-- 🌱 I’m currently learning ... Assembly Language Programming
+- 🌱 I’m currently learning ... how to make iOS apps!
 
 
 <!---
